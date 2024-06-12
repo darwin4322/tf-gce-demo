@@ -1,4 +1,4 @@
-https://github.com/darwin4322/tf-gce-demo.git
+git clone https://github.com/darwin4322/tf-gce-demo.git
 
 cd tf-gce-demo
 
